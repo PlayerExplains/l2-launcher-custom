@@ -1,0 +1,60 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono / Xamarin
+*.userprefs
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+!packages/build/
+*.snupkg
+
+# Generated files
+Generated\ Files/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+
+# OS files
+.DS_Store
+
+# Publish profiles local secrets
+*.pubxml.user
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings.user
+
+# Optional: ignore local app configs if you later add env-specific values
+appsettings.Development.json
