@@ -1,6 +1,10 @@
 # L2 Launcher
 
-A custom Windows launcher for a Lineage 2 client.
+Lineage 2 custom launcher with automatic updates, file verification, full client check, and quick access to community links.
+
+## Video Guide
+
+[![](https://img.youtube.com/vi/vmt1NkJWS-Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=vmt1NkJWS-Y)
 
 ## Purpose
 
